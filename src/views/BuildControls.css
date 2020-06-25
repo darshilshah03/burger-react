@@ -1,0 +1,20 @@
+.BuildControls { 
+    width : 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    box-shadow: 1px 2px 1px grey;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.BuildControls .Order {
+    width: 200px;
+    margin: 10px;
+    padding : 10px;
+    font-size: 20;
+    font-weight: bold;
+}
+

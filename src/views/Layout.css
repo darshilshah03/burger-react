@@ -1,0 +1,9 @@
+.Content { 
+    margin-top: 80px;
+}
+
+@media (max-width : 499px) {
+    .DesktopOnly{
+        display: none;
+    }
+}
